@@ -2,12 +2,9 @@
 @tailwind components;
 @tailwind utilities;
 
-$body-background: #fafafa;
-$body-color: #444;
-
 body {
-  background: $body-background;
-  color: $body-color;
+  background: #fafafa;
+  color: #444;
   font-family: sans-serif;
 }
 
