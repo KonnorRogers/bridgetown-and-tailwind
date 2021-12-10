@@ -4,4 +4,5 @@
 layout: home
 ---
 
-Welcome to Bridgetown!
+<h2 class="text-red-500">Welcome to Bridgetown! I should be
+red!</h2>
